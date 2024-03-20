@@ -13,9 +13,9 @@ const HeroSection = () => {
         className='min-h-screen object-cover opacity-50 md:opacity-100 object-center-right'
       />
       <div className='text-center absolute top-1/2 text-white w-full md:w-2/3 translate-y-[-50%]'>
-        <div className='text-2xl'> Welcome, <span> I am Min Thet Paing </span></div>
+        <div className='text-2xl'> Welcome, <span> I am Waiyan Htet Aung </span></div>
         <h1 style={{fontSize : '60px'}} className='font-bold mt-10'>I am 
-          <span className='ms-3 text-blue-700'> 
+          <span className='ms-3 text-yellow-700'> 
             <Typewriter  
               words={['AWS', 'Laravel', 'NodeJs', 'React']}
               loop={false}

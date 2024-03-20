@@ -19,12 +19,12 @@ const Sidebar = () => {
               height={200}
               className='border-slate-400 border-4'
               style={{
-                borderRadius : "50%"
+                borderRadius : "20%"
               }}
               blurDataURL="data:..."
               alt='profile image'
           />
-          <h3 className='font-bold text-slate-200 text-center text-xl mt-3'> Min Thet Paing </h3>
+          <h3 className='font-bold text-slate-200 text-center text-xl mt-3'> Waiyan Htet Aung </h3>
         </div>
         {/* navbar  */}
         <div className='text-center my-20'>
