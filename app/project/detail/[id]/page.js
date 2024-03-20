@@ -2,8 +2,8 @@ import ProjectDetail from '@/app/componets/project/ProjectDetail'
 import React from 'react'
 
 export const metadata = {
-  title: "Min Thet Paing - Project",
-  description: 'Project Detail Page of Min Thet Paing Portfolio',
+  title: "Waiyan Htet Aung - Project",
+  description: 'Project Detail Page of Waiyan Htet Aung Portfolio',
 }
 
 const page = ({params}) => {

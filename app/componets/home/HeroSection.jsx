@@ -6,7 +6,7 @@ import Button from '@/app/utlis/Button'
 
 const HeroSection = () => {
   return (
-    <div className='relative bg-indigo-300'>
+    <div className='relative bg-skyblue-300'>
       <Image
         src={HeroImage}
         alt="HeroImage"
@@ -15,9 +15,9 @@ const HeroSection = () => {
       <div className='text-center absolute top-1/2 text-white w-full md:w-2/3 translate-y-[-50%]'>
         <div className='text-2xl'> Welcome, <span> I am Min Thet Paing </span></div>
         <h1 style={{fontSize : '60px'}} className='font-bold mt-10'>I am 
-          <span className='ms-3 text-violet-700'> 
+          <span className='ms-3 text-blue-700'> 
             <Typewriter  
-              words={['Full Stack', 'Laravel', 'NodeJs', 'React']}
+              words={['AWS', 'Laravel', 'NodeJs', 'React']}
               loop={false}
               cursor
               cursorStyle='|'

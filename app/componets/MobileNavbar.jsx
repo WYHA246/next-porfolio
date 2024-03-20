@@ -16,22 +16,22 @@ const socials = [
   {
     id: 1,
     icon: <FaFacebookF />,
-    link: "https://www.facebook.com/profile.php?id=100077666327550",
+    link: "",
   },
   {
     id: 2,
     icon: <FaInstagram />,
-    link: "https://www.facebook.com/profile.php?id=100077666327550",
+    link: "",
   },
   {
     id: 3,
     icon: <FaLinkedin />,
-    link: "https://www.facebook.com/profile.php?id=100077666327550",
+    link: "",
   },
   {
     id: 4,
     icon: <FaTelegram />,
-    link: "https://www.facebook.com/profile.php?id=100077666327550",
+    link: "",
   },
 ];
 

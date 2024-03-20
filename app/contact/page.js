@@ -2,8 +2,8 @@ import React from 'react'
 import Contact from '../componets/contact/Contact'
 
 export const metadata = {
-  title: "Min Thet Paing - Contact",
-  description: 'Contact Page of Min Thet Paing Portfolio',
+  title: "Waiyan Htet Aung - Contact",
+  description: 'Contact Page of Waiyan Htet Aung Portfolio',
 }
 
 const page = () => {

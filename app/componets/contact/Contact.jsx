@@ -11,27 +11,27 @@ const data = [
   {
     id : 1,
     icon : <FaFacebookF />,
-    link : "https://www.facebook.com/profile.php?id=100077666327550",
+    link : "",
   },
   {
     id : 2,
     icon : <FaInstagram />,
-    link : "https://www.instagram.com/newstein26?igsh=MWE5OWY4ZmR2dzNjMw%3D%3D&utm_source=qr",
+    link : "",
   },
   {
     id : 3,
     icon : <FaLinkedin />,
-    link : "www.linkedin.com/in/min-thet-paing-793738241",
+    link : "",
   },
   {
     id : 4,
     icon : <FaTelegram />,
-    link : "https://t.me/alpha27century",
+    link : "",
   },
   {
     id : 5,
     icon : <FaWhatsapp />,
-    link : "https://wa.me/+959770139833",
+    link : "",
   },
 ]
 
@@ -65,8 +65,8 @@ const Contact = () => {
                       size={20}
                       className="text-violet-700 inline me-3"
                     />
-                    <a href="phoneto:+959770139207" className="text-slate-500 text-sm">
-                      +95 9770139833
+                    <a href="phoneto:+959962451265" className="text-slate-500 text-sm">
+                      +95 9962451265
                     </a>
                   </div>
                   <div className="mt-3">
@@ -78,7 +78,7 @@ const Contact = () => {
                       href="mailto:minthetpaing376@gmail.com"
                       className="text-slate-500 text-sm"
                     >
-                      minthetpaing376@gmail.com
+                      waiyanhtetaung644@gmail.com
                     </a>
                   </div>
                 </div>
