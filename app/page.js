@@ -6,12 +6,12 @@ export const metadata = {
   generator: 'Next.js',
   applicationName: "Waiyan Htet Aung's Portfolio",
   referrer: 'origin-when-cross-origin',
-  keywords: ['waiyanhtetaung', 'web developer', 'myanmar', 'system administrator', 'university of medicine 2'],
+  keywords: ['waiyanhtetaung', 'cloud specialist', 'myanmar', 'system administrator', 'cloud practitioner'],
   creator: 'Waiyan Htet Aung',
   publisher: 'Waiyan Htet Aung',
   openGraph: {
     title: 'Waiyan Htet Aung',
-    description: 'Experienced full stack web developer with three years of expertise in front-end and back-end technologies. Skilled in JavaScript frameworks like React, Laravel and Node.js, with a focus on building robust and interactive web applications. Passionate about continuous learning and staying updated with the latest trends in web development.',
+    description: 'A passionate junior cloud technician',
     url: '',
     siteName: 'Waiyan Htet Aung',
     images: [
