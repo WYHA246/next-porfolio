@@ -46,19 +46,19 @@ const About = () => {
             <h1 className="text-2xl text-slate-800 font-bold">
               I'm
               <span className="text-2xl text-violet-700 ms-3">
-                Min Thet Paing
+                Waiyan Htet Aung
               </span>
-              , a Full Stack Web Developer
+              , a Cloud Administrator
             </h1>
             <br />
             <p data-aos="fade-up" className="text-slate-500 leading-loose text-justify font-semibold">
-            I have a genuine passion for technology and innovation. With a background in marine electrical and electronics studies at Myanmar Maritime University, I've always been fascinated by the possibilities of technology. 
+            I have a genuine passion for technology and innovation. Despite with a background in medical field, I've always been fascinated by the vast possibilities of technology. 
             </p>
             <br />
             <div className="flex flex-wrap flex-col-reverse md:flex-row-reverse"> 
               <div className="lg:w-1/2 mt-3 md:mt-0">
                 <p data-aos="fade-up" className="text-slate-500 leading-loose text-justify md:ms-3">
-                However, the Covid-19 pandemic provided a unique opportunity for reflection and exploration, leading me to delve into new areas such as astronomy and science. This period of self-discovery sparked a newfound passion for programming, prompting me to transition my career to become a web developer. From teaching web development assignments at MST University to making significant contributions to web application development at Myanmar ICT Solutions Co. Ltd. for two and a half-year, I've 
+                However, the Covid-19 pandemic provided a unique opportunity for reflection and exploration, leading me to delve into new areas such as technology and science. With a profound passion for science and technology, I have transitioned my career towards becoming an IT technician, driven by the dynamic landscape of cloud technology. Recognizing the burgeoning trend in cloud computing, I have dedicated myself to becoming a specialist in this field. My journey began with a solid foundation in Amazon Web Services (AWS), where I have diligently pursued and obtained various certifications offered by AWS. 
               </p>
               </div>
               <div data-aos="flip-up" className="lg:w-1/2">
@@ -67,7 +67,7 @@ const About = () => {
             </div>
           </div>
           <div className="mx-10 md:mx-20">
-            <p data-aos="fade-up" className="text-slate-500 leading-loose text-justify md:ms-3"> been fortunate to pursue my passion and make meaningful impacts in the field. Recently, I joined Mysol Co. Ltd., further expanding my expertise in Laravel and React development. I passed NCC level 4 education during my worktime, and I'm currently attending NCC level 5 to deepen my knowledge and skills in web development. I am deeply interested in the intersection of technology and creativity, and I'm excited to continue my journey of growth and exploration in the dynamic world of web development. Feel free to reach out to me.</p>
+            <p data-aos="fade-up" className="text-slate-500 leading-loose text-justify md:ms-3"> Moving forward, I am enthusiastic about broadening my expertise to encompass other leading cloud platforms such as Azure and Google Cloud, ensuring a comprehensive understanding of diverse cloud environments. My commitment to staying at the forefront of technological advancements underscores my dedication to delivering innovative solutions in the realm of cloud computing.</p>
           </div>
         </div>
         {/* Contact me info */}
@@ -78,7 +78,7 @@ const About = () => {
                 <div className="mb-2 py-3">
                   
                   <span className="font-bold text-slate-800"> Name: </span>
-                  <span className="ms-3 text-slate-500"> Min Thet Paing </span>
+                  <span className="ms-3 text-slate-500"> Waiyan Htet Aung </span>
                 </div>
                 <span className="absolute bottom-0 left-0 bg-slate-500 w-3/4 h-[2px]"></span>
               </div>
@@ -88,10 +88,10 @@ const About = () => {
                     Email:
                   </span>
                   <a
-                    href="mailto:minthetpaing376@gmail.com"
+                    href="mailto:waiyanhtetaung644@gmail.com"
                     className="ms-3 text-violet-700"
                   >
-                    minthetpaing376@gmail.com
+                    waiyanhtetaung644@gmail.com
                   </a>
                 </div>
                 <span className="absolute bottom-0 left-0 bg-slate-500 w-3/4 h-[2px]"></span>
